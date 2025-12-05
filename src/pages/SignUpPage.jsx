@@ -122,7 +122,7 @@ const SignUpPage = () => {
                   </h3>
                   <div className="mt-4 flex justify-center gap-4">
                     <span className="auth-badge">Free</span>
-                    <span className="auth-badge">Easy</span>
+                    <span className="auth-badge">Easy setup</span>
                     <span className="auth-badge">Private</span>
                   </div>
                 </div>
